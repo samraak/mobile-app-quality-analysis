@@ -24,7 +24,7 @@ Helps developers spot issues early and improve their apps
 
 In short → It turns messy reviews into actionable insights 
 
-** Technologies Used**
+**Technologies Used**
 
 Frontend: React + TailwindCSS (clean and responsive UI)
 
